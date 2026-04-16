@@ -6,13 +6,13 @@ A curated list of tools for building next-generation websites.
 
 <table>
   <tr>
-    <td align="center"><a href="https://spline.design/"><img src="https://spline.design/images/templates/retrofuturism.webp" width="250"/></a><br/><b>Spline</b></td>
+    <td align="center"><a href="https://spline.design/"><img src="assets/spline_examples_preview.png" width="250"/></a><br/><b>Spline</b></td>
     <td align="center"><a href="https://elevenlabs.io/"><img src="https://eleven-public-cdn.elevenlabs.io/payloadcms/redchdw2op-bento-orange-blue-2%403x.webp" width="250"/></a><br/><b>ElevenLabs</b></td>
     <td align="center"><a href="https://21st.dev/home"><img src="https://cdn.21st.dev/cdn-cgi/image/fit=scale-down,width=600,quality=75,format=auto/https://cdn.21st.dev/preetsuthar17/hero-1/default/preview.png?v=1" width="250"/></a><br/><b>21st.dev</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://higgsfield.ai/"><img src="https://static.higgsfield.ai/explore/create-video.webp" width="250"/></a><br/><b>Higgsfield</b></td>
-    <td align="center"><a href="https://reactbits.dev/"><img src="assets/react-bits.png" width="250"/></a><br/><b>React Bits</b></td>
+    <td align="center"><a href="https://reactbits.dev/"><img src="assets/react_bits_preview.png" width="250"/></a><br/><b>React Bits</b></td>
     <td align="center"><a href="https://claude.ai/"><img src="assets/claude.png" width="250"/></a><br/><b>Claude</b></td>
   </tr>
 </table>
@@ -40,6 +40,7 @@ A curated list of tools for building next-generation websites.
 - [Effect \& Component Libraries](#effect--component-libraries)
 - [Image \& Video Generation](#image--video-generation)
 - [SFX](#sfx)
+- [Libraries \& Frameworks](#libraries--frameworks)
 - [Coding](#coding)
 - [Hosting](#hosting)
 - [Misc](#misc)
@@ -80,6 +81,12 @@ A curated list of tools for building next-generation websites.
 | ---------- | ---------------------- | ------- | ---------- | ------------------------------------------------------------ |
 | 21st.dev   | https://21st.dev/home  | ✨       | 🟡          | Marketplace of ready-to-use Tailwind/React UI components       |
 | React Bits | https://reactbits.dev/ | ⭐       | 🟡          | Open-source animated React components and background effects |
+
+## Libraries & Frameworks
+
+| Name     | Link                   | Pricing | Difficulty | Description                                          |
+| -------- | ---------------------- | ------- | ---------- | ---------------------------------------------------- |
+| Anime.js | https://animejs.com/   | ⭐       | 🟡          | Lightweight JavaScript animation library             |
 
 ## Hosting
 
