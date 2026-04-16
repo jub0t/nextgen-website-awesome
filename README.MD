@@ -1,16 +1,64 @@
+# Next-Gen Website Awesome
+
+A curated list of tools for building next-generation websites.
+
+## Legend
+
+| Symbol | Meaning |
+| --- | --- |
+| 🆓 | Free |
+| 💲 | Paid |
+| 🔀 | Free & Paid |
+
 ## Contents
-content/category list will go here
 
-[everything will show in a table with columsn like name, link, subsctipions mode (emojis for free/paid dollar sign, both, etc, etc), category, small one-liner descrption]
+- [UX](#ux)
+- [UI](#ui)
+- [SFX](#sfx)
+- [Image Generation](#image-generation)
+- [LLMs](#llms)
+- [Effect & Component Libraries](#effect--component-libraries)
+- [Fonts](#fonts)
 
-some category ideas I have are UX, SFX, UI, IMAGE GEN, LLMS for idea gen and text gen related to website creation,
+## UX
 
-##
-- https://higgsfield.ai/
-- https://antigravity.google/
-- https://claude.ai/
-- https://elevenlabs.io/ FOR SFX
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
 
-then theres cool effect components libraries like these
-- https://21st.dev/home
-- https://reactbits.dev/
+## UI
+
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
+
+## SFX
+
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
+| ElevenLabs | https://elevenlabs.io/ |  |  |
+
+## Image Generation
+
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
+| Higgsfield | https://higgsfield.ai/ |  |  |
+
+## LLMs
+
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
+| Claude | https://claude.ai/ |  |  |
+| Antigravity | https://antigravity.google/ |  |  |
+
+## Effect & Component Libraries
+
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
+| 21st.dev | https://21st.dev/home |  |  |
+| React Bits | https://reactbits.dev/ |  |  |
+| Spline | https://spline.design/ |  |  |
+
+## Fonts
+
+| Name | Link | Pricing | Description |
+| --- | --- | --- | --- |
+| Google Fonts | https://fonts.google.com |  |  |
