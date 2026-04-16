@@ -32,16 +32,11 @@ A curated list of tools for building next-generation websites.
   - [Effect \& Component Libraries](#effect--component-libraries)
   - [Misc](#misc)
 
-## UX
+## UI / UX
 
-| Name        | Link                        | Pricing | Difficulty | Description                                                     |
-| ----------- | --------------------------- | ------- | ---------- | --------------------------------------------------------------- |
-| Antigravity | https://antigravity.google/ | ⭐      | 🟡          | Google's agentic development platform with autonomous AI agents |
-
-## UI
-
-| Name | Link | Pricing | Difficulty | Description |
-| ---- | ---- | ------- | ---------- | ----------- |
+| Name        | Link                        | Focus | Pricing | Difficulty | Description                                                     |
+| ----------- | --------------------------- | ----- | ------- | ---------- | --------------------------------------------------------------- |
+| Antigravity | https://antigravity.google/ | UX    | ⭐      | 🟡          | Google's agentic development platform with autonomous AI agents |
 
 ## SFX
 
