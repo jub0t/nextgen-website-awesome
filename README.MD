@@ -20,8 +20,6 @@ A curated list of tools for building next-generation websites.
 
 ## Contents
 
-- [Pricing Legend](#pricing-legend)
-- [Difficulty Legend](#difficulty-legend)
 - [UI / UX](#ui--ux)
 - [SFX](#sfx)
 - [Image \& Video Generation](#image--video-generation)
