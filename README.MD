@@ -21,11 +21,11 @@ A curated list of tools for building next-generation websites.
 ## Contents
 
 - [UI / UX](#ui--ux)
-- [SFX](#sfx)
-- [Image \& Video Generation](#image--video-generation)
-- [Coding](#coding)
 - [3D Tools](#3d-tools)
 - [Effect \& Component Libraries](#effect--component-libraries)
+- [Image \& Video Generation](#image--video-generation)
+- [SFX](#sfx)
+- [Coding](#coding)
 - [Misc](#misc)
 
 ## UI / UX
