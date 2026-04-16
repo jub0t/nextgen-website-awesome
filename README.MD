@@ -2,6 +2,21 @@
 
 A curated list of tools for building next-generation websites.
 
+## Gallery
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/spline.png" width="250"/><br/><b>Spline</b></td>
+    <td align="center"><img src="assets/elevenlabs.png" width="250"/><br/><b>ElevenLabs</b></td>
+    <td align="center"><img src="assets/21st-dev.png" width="250"/><br/><b>21st.dev</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/higgsfield.png" width="250"/><br/><b>Higgsfield</b></td>
+    <td align="center"><img src="assets/react-bits.png" width="250"/><br/><b>React Bits</b></td>
+    <td align="center"><img src="assets/claude.png" width="250"/><br/><b>Claude</b></td>
+  </tr>
+</table>
+
 ## Pricing Legend
 
 | Symbol | Meaning  |
@@ -26,6 +41,7 @@ A curated list of tools for building next-generation websites.
 - [Image \& Video Generation](#image--video-generation)
 - [SFX](#sfx)
 - [Coding](#coding)
+- [Hosting](#hosting)
 - [Misc](#misc)
 
 ## UI / UX
@@ -64,6 +80,16 @@ A curated list of tools for building next-generation websites.
 | ---------- | ---------------------- | ------- | ---------- | ------------------------------------------------------------ |
 | 21st.dev   | https://21st.dev/home  | ✨       | 🟡          | AI-powered marketplace of Tailwind/React UI components       |
 | React Bits | https://reactbits.dev/ | ⭐       | 🟡          | Open-source animated React components and background effects |
+
+## Hosting
+
+| Name             | Link                          | Pricing | Difficulty | Description                                            |
+| ---------------- | ----------------------------- | ------- | ---------- | ------------------------------------------------------ |
+| GitHub Pages     | https://pages.github.com/     | ⭐       | 🟢          | Free static hosting directly from a GitHub repo        |
+| Vercel           | https://vercel.com/           | ✨       | 🟢          | Free tier for static sites and serverless functions    |
+| Netlify          | https://www.netlify.com/      | ✨       | 🟢          | Free tier with CI/CD, forms, and edge functions        |
+| Cloudflare Pages | https://pages.cloudflare.com/ | ✨       | 🟡          | Free static hosting with unlimited bandwidth and CDN   |
+| Surge            | https://surge.sh/             | ⭐       | 🟢          | Dead-simple CLI deploy for static sites                |
 
 ## Misc
 
