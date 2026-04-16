@@ -48,25 +48,25 @@ A curated list of tools for building next-generation websites.
 
 | Name        | Link                        | Focus | Pricing | Difficulty | Description                                                     |
 | ----------- | --------------------------- | ----- | ------- | ---------- | --------------------------------------------------------------- |
-| Antigravity | https://antigravity.google/ | UX    | ⭐       | 🟡          | Google's agentic development platform with autonomous AI agents |
+| Antigravity | https://antigravity.google/ | UX    | ⭐       | 🟡          | Google's agentic development platform with autonomous agents |
 
 ## SFX
 
 | Name       | Link                   | Pricing | Difficulty | Description                                   |
 | ---------- | ---------------------- | ------- | ---------- | --------------------------------------------- |
-| ElevenLabs | https://elevenlabs.io/ | ✨       | 🟢          | AI-generated voices, sound effects, and music |
+| ElevenLabs | https://elevenlabs.io/ | ✨       | 🟢          | Generated voices, sound effects, and music |
 
 ## Image & Video Generation
 
 | Name       | Link                   | Pricing | Difficulty | Description                                                  |
 | ---------- | ---------------------- | ------- | ---------- | ------------------------------------------------------------ |
-| Higgsfield | https://higgsfield.ai/ | ✨       | 🟢          | AI video and image generation with cinematic camera controls |
+| Higgsfield | https://higgsfield.ai/ | ✨       | 🟢          | Video and image generation with cinematic camera controls |
 
 ## Coding
 
 | Name   | Link               | Pricing | Difficulty | Description                                           |
 | ------ | ------------------ | ------- | ---------- | ----------------------------------------------------- |
-| Claude | https://claude.ai/ | ✨       | 🟢          | Anthropic's AI assistant for ideation, copy, and code |
+| Claude | https://claude.ai/ | ✨       | 🟢          | Anthropic's assistant for ideation, copy, and code |
 
 ## 3D Tools
 
@@ -78,7 +78,7 @@ A curated list of tools for building next-generation websites.
 
 | Name       | Link                   | Pricing | Difficulty | Description                                                  |
 | ---------- | ---------------------- | ------- | ---------- | ------------------------------------------------------------ |
-| 21st.dev   | https://21st.dev/home  | ✨       | 🟡          | AI-powered marketplace of Tailwind/React UI components       |
+| 21st.dev   | https://21st.dev/home  | ✨       | 🟡          | Marketplace of ready-to-use Tailwind/React UI components       |
 | React Bits | https://reactbits.dev/ | ⭐       | 🟡          | Open-source animated React components and background effects |
 
 ## Hosting
